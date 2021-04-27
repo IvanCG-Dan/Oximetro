@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BATERIA_OUT Pin=C501-1
+Removed Pin From Net: NetName=BATERIA_OUT Pin=L501-1
+Removed Pin From Net: NetName=BATERIA_OUT Pin=R511-1
+Removed Pin From Net: NetName=BATERIA_OUT Pin=U501-2
+Added Pin To Net: NetName=BAT Pin=C501-1
+Added Pin To Net: NetName=BAT Pin=L501-1
+Added Pin To Net: NetName=BAT Pin=R511-1
+Added Pin To Net: NetName=BAT Pin=U501-2
+Added Net: Name=BAT
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

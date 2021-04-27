@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=/SD WIFI Pin=U21-8
+Change Net Name : Old Net Name=NetR20_1 New Net Name=ALCC
+Change Net Name : Old Net Name=NetU20_3 New Net Name=SCL
+Change Net Name : Old Net Name=UART_OX New Net Name=UART_TX_BLE

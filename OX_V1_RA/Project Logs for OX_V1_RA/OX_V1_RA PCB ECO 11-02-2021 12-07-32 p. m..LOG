@@ -1,0 +1,7 @@
+Added Component: Designator=P101(Con 503480-1400)
+Added Pin To Net: NetName=VIN Pin=P101-2
+Added Pin To Net: NetName=NetP101_8 Pin=P101-8
+Added Pin To Net: NetName=NetP101_9 Pin=P101-9
+Added Pin To Net: NetName=BATERIA Pin=P101-13
+Added Pin To Net: NetName=BATERIA Pin=P101-14
+Added Member To Class: ClassName=Designator Member=Component P101 Header 14

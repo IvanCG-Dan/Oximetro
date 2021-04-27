@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCL Pin=P101-3
+Removed Pin From Net: NetName=ALCC Pin=P101-4
+Removed Pin From Net: NetName=SDA Pin=P101-5
+Removed Pin From Net: NetName=/SD WIFI Pin=P101-6
+Removed Pin From Net: NetName=RESET Pin=P101-7
+Removed Pin From Net: NetName=UART_TX_BLE Pin=P101-8
+Removed Pin From Net: NetName=UART_RX_BLE Pin=P101-9
+Removed Pin From Net: NetName=3V3 Pin=P101-10
+Removed Pin From Net: NetName=AGND Pin=P101-11
+Removed Pin From Net: NetName=AGND Pin=P101-12
+Added Pin To Net: NetName=NetP101_8 Pin=P101-8
+Added Pin To Net: NetName=NetP101_9 Pin=P101-9

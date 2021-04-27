@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BATERIA_IN Pin=P?-7
+Added Pin To Net: NetName=BATERIA_IN Pin=P?-8
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,14 @@
+Added Component: Designator=P5(Con 503480-1400)
+Added Pin To Net: NetName=DVCC_MSP430 Pin=P5-5
+Added Pin To Net: NetName=SDA_FG Pin=P5-10
+Added Pin To Net: NetName=ALCC_FG Pin=P5-11
+Added Pin To Net: NetName=SCL_FG Pin=P5-12
+Added Pin To Net: NetName=VIN Pin=P5-13
+Added Pin To Net: NetName=RX_CC Pin=P5-6
+Added Net: Name=RX_CC
+Added Pin To Net: NetName=TX_CC Pin=P5-7
+Added Net: Name=TX_CC
+Added Member To Class: ClassName=TOP Member=Component P5 Header 14
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

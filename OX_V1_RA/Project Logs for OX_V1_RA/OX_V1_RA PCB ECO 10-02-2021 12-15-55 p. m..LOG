@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=AGND Pin=USB201-A1
+Removed Pin From Net: NetName=VIN Pin=USB201-A4
+Removed Pin From Net: NetName=DET_M Pin=USB201-A5
+Removed Pin From Net: NetName=DET_P Pin=USB201-A6
+Removed Pin From Net: NetName=TXM Pin=USB201-A7
+Removed Pin From Net: NetName=TXP Pin=USB201-A8
+Removed Pin From Net: NetName=VIN Pin=USB201-A9
+Removed Pin From Net: NetName=AGND Pin=USB201-A12
+Removed Pin From Net: NetName=AGND Pin=USB201-B1
+Removed Pin From Net: NetName=VIN Pin=USB201-B4
+Removed Pin From Net: NetName=DET_M Pin=USB201-B5
+Removed Pin From Net: NetName=DET_P Pin=USB201-B6
+Removed Pin From Net: NetName=TXM Pin=USB201-B7
+Removed Pin From Net: NetName=TXP Pin=USB201-B8
+Removed Pin From Net: NetName=VIN Pin=USB201-B9
+Removed Pin From Net: NetName=AGND Pin=USB201-B12
+Removed Member From Class: ClassName=Designator Member=C22
+Removed Member From Class: ClassName=Designator Member=C23
+Removed Member From Class: ClassName=Designator Member=C24
+Removed Member From Class: ClassName=Designator Member=C25
+Removed Member From Class: ClassName=Designator Member=C26
+Removed Member From Class: ClassName=Designator Member=C27
+Removed Member From Class: ClassName=Designator Member=C28
+Removed Member From Class: ClassName=Designator Member=C29
+Removed Member From Class: ClassName=Designator Member=C101
+Removed Member From Class: ClassName=Designator Member=C102
+Removed Member From Class: ClassName=Designator Member=C103
+Removed Member From Class: ClassName=Designator Member=C104
+Removed Member From Class: ClassName=Designator Member=C105
+Removed Member From Class: ClassName=Designator Member=C106
+Removed Member From Class: ClassName=Designator Member=C107
+Removed Member From Class: ClassName=Designator Member=C201
+Removed Member From Class: ClassName=Designator Member=C202
+Removed Member From Class: ClassName=Designator Member=C203
+Removed Member From Class: ClassName=Designator Member=C204
+Removed Member From Class: ClassName=Designator Member=C205
+Removed Member From Class: ClassName=Designator Member=C206
+Removed Member From Class: ClassName=Designator Member=C207
+Removed Member From Class: ClassName=Designator Member=D20
+Removed Member From Class: ClassName=Designator Member=D27
+Removed Member From Class: ClassName=Designator Member=D101
+Removed Member From Class: ClassName=Designator Member=D102
+Removed Member From Class: ClassName=Designator Member=D201
+Removed Member From Class: ClassName=Designator Member=D202
+Removed Member From Class: ClassName=Designator Member=D203
+Removed Member From Class: ClassName=Designator Member=D204
+Removed Member From Class: ClassName=Designator Member=J101
+Removed Member From Class: ClassName=Designator Member=L102
+Removed Member From Class: ClassName=Designator Member=L201
+Removed Member From Class: ClassName=Designator Member=LED100
+Removed Member From Class: ClassName=Designator Member=R20
+Removed Member From Class: ClassName=Designator Member=R21
+Removed Member From Class: ClassName=Designator Member=R23
+Removed Member From Class: ClassName=Designator Member=R25
+Removed Member From Class: ClassName=Designator Member=R26
+Removed Member From Class: ClassName=Designator Member=R28
+Removed Member From Class: ClassName=Designator Member=R29
+Removed Member From Class: ClassName=Designator Member=R101
+Removed Member From Class: ClassName=Designator Member=R102
+Removed Member From Class: ClassName=Designator Member=R103
+Removed Member From Class: ClassName=Designator Member=R104
+Removed Member From Class: ClassName=Designator Member=R105
+Removed Member From Class: ClassName=Designator Member=R106
+Removed Member From Class: ClassName=Designator Member=R107
+Removed Member From Class: ClassName=Designator Member=R108
+Removed Member From Class: ClassName=Designator Member=R201
+Removed Member From Class: ClassName=Designator Member=R202
+Removed Member From Class: ClassName=Designator Member=S101
+Removed Member From Class: ClassName=Designator Member=U20
+Removed Member From Class: ClassName=Designator Member=U21
+Removed Member From Class: ClassName=Designator Member=U22
+Removed Member From Class: ClassName=Designator Member=U101
+Removed Member From Class: ClassName=Designator Member=U202
+Removed Member From Class: ClassName=Designator Member=USB201
+Removed Member From Class: ClassName=Designator Member=Y101
+Removed Member From Class: ClassName=Designator Member=Y201
+Added Component: Designator=C30(C-0603)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=R30(R-0402)
+Added Component: Designator=USB?(USB C)
+Added Pin To Net: NetName=VREG Pin=R30-1
+Added Pin To Net: NetName=NetD27_1 Pin=R30-2
+Added Pin To Net: NetName=AGND Pin=USB?-A1
+Added Pin To Net: NetName=VIN Pin=USB?-A4
+Added Pin To Net: NetName=DET_M Pin=USB?-A5
+Added Pin To Net: NetName=DET_P Pin=USB?-A6
+Added Pin To Net: NetName=TXM Pin=USB?-A7
+Added Pin To Net: NetName=TXP Pin=USB?-A8
+Added Pin To Net: NetName=VIN Pin=USB?-A9
+Added Pin To Net: NetName=AGND Pin=USB?-A12
+Added Pin To Net: NetName=AGND Pin=USB?-B1
+Added Pin To Net: NetName=VIN Pin=USB?-B4
+Added Pin To Net: NetName=DET_M Pin=USB?-B5
+Added Pin To Net: NetName=DET_P Pin=USB?-B6
+Added Pin To Net: NetName=TXM Pin=USB?-B7
+Added Pin To Net: NetName=TXP Pin=USB?-B8
+Added Pin To Net: NetName=VIN Pin=USB?-B9
+Added Pin To Net: NetName=AGND Pin=USB?-B12
+Added Pin To Net: NetName=BATERIA_IN Pin=P4-1
+Added Net: Name=BATERIA_IN
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=TOP

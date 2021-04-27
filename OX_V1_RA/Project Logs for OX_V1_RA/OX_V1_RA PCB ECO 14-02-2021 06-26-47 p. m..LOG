@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=P?-6
+Added Pin To Net: NetName=3.3V Pin=P?-7
+Added Pin To Net: NetName=BAT Pin=U21-8
+Added Pin To Net: NetName=BAT Pin=U101-4
+Change Net Name : Old Net Name=3.3V New Net Name=BATERIA_OUT
+Change Net Name : Old Net Name=BAT New Net Name=/SD WIFI
+Added Pin To Net: NetName=3.3V Pin=P?-6
+Added Net: Name=3.3V
+Added Pin To Net: NetName=UART_OX Pin=P?-2
+Added Pin To Net: NetName=UART_OX Pin=U101-37
+Added Net: Name=UART_OX
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=TOP

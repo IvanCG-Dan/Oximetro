@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=U101-11 Old Net=AVCC New Net=AVCC
+Add Pin To Net: Pin=U101-18 Old Net=ACLK_MSP430 New Net=ACLK_MSP430

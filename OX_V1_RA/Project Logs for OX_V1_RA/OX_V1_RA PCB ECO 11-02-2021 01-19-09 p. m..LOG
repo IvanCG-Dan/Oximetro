@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DVCC_MSP430 Pin=P5-5
+Removed Pin From Net: NetName=RESET Pin=P5-8
+Removed Pin From Net: NetName=VIN Pin=P5-13
+Removed Member From Class: ClassName=TOP Member=P5
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U20-1
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetU20_2 Pin=U20-2
+Added Net: Name=NetU20_2
+Added Pin To Net: NetName=NetU20_3 Pin=U20-3
+Added Net: Name=NetU20_3
+Added Pin To Net: NetName=NetU21_8 Pin=U21-8
+Added Net: Name=NetU21_8

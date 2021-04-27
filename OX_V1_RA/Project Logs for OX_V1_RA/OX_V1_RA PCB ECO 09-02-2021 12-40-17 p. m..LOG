@@ -1,0 +1,116 @@
+Added Component: Designator=C201(C0402)
+Added Component: Designator=C202(C0603_P)
+Added Component: Designator=C203(C0603_P)
+Added Component: Designator=C204(C0402)
+Added Component: Designator=C205(C0402)
+Added Component: Designator=C206(C0402)
+Added Component: Designator=C207(C0603_P)
+Added Component: Designator=D201(SOT-323)
+Added Component: Designator=D202(SOT-323)
+Added Component: Designator=D203(SOT-323)
+Added Component: Designator=D204(SOT-323)
+Added Component: Designator=L201(IND_1206-4P)
+Added Component: Designator=R201(0201)
+Added Component: Designator=R202(0201)
+Added Component: Designator=U202(QFN-40[RHA-42P])
+Added Component: Designator=USB201(USB C)
+Added Component: Designator=Y201(RESONATOR-1.3X3.2-MURATA)
+Added Pin To Net: NetName=VIN Pin=USB201-A4
+Added Pin To Net: NetName=VIN Pin=USB201-A9
+Added Pin To Net: NetName=VIN Pin=USB201-B4
+Added Pin To Net: NetName=VIN Pin=USB201-B9
+Added Pin To Net: NetName=AFE_XIN Pin=R202-2
+Added Pin To Net: NetName=AFE_XIN Pin=U202-38
+Added Pin To Net: NetName=AFE_XIN Pin=Y201-1
+Added Net: Name=AFE_XIN
+Added Pin To Net: NetName=AFE_XOUT Pin=U202-37
+Added Pin To Net: NetName=AFE_XOUT Pin=Y201-3
+Added Net: Name=AFE_XOUT
+Added Pin To Net: NetName=AGND Pin=C201-2
+Added Pin To Net: NetName=AGND Pin=C202-2
+Added Pin To Net: NetName=AGND Pin=C203-2
+Added Pin To Net: NetName=AGND Pin=C204-2
+Added Pin To Net: NetName=AGND Pin=C205-2
+Added Pin To Net: NetName=AGND Pin=C206-2
+Added Pin To Net: NetName=AGND Pin=C207-2
+Added Pin To Net: NetName=AGND Pin=D201-1
+Added Pin To Net: NetName=AGND Pin=D202-1
+Added Pin To Net: NetName=AGND Pin=D203-1
+Added Pin To Net: NetName=AGND Pin=D204-1
+Added Pin To Net: NetName=AGND Pin=U202-3
+Added Pin To Net: NetName=AGND Pin=U202-8
+Added Pin To Net: NetName=AGND Pin=U202-12
+Added Pin To Net: NetName=AGND Pin=U202-13
+Added Pin To Net: NetName=AGND Pin=U202-16
+Added Pin To Net: NetName=AGND Pin=U202-19
+Added Pin To Net: NetName=AGND Pin=U202-32
+Added Pin To Net: NetName=AGND Pin=U202-36
+Added Pin To Net: NetName=AGND Pin=U202-40
+Added Pin To Net: NetName=AGND Pin=U202-41
+Added Pin To Net: NetName=AGND Pin=USB201-A1
+Added Pin To Net: NetName=AGND Pin=USB201-A12
+Added Pin To Net: NetName=AGND Pin=USB201-B1
+Added Pin To Net: NetName=AGND Pin=USB201-B12
+Added Pin To Net: NetName=AGND Pin=Y201-2
+Added Net: Name=AGND
+Added Pin To Net: NetName=DET_M Pin=D201-3
+Added Pin To Net: NetName=DET_M Pin=L201-1
+Added Pin To Net: NetName=DET_M Pin=USB201-A5
+Added Pin To Net: NetName=DET_M Pin=USB201-B5
+Added Net: Name=DET_M
+Added Pin To Net: NetName=DET_P Pin=D202-3
+Added Pin To Net: NetName=DET_P Pin=L201-4
+Added Pin To Net: NetName=DET_P Pin=USB201-A6
+Added Pin To Net: NetName=DET_P Pin=USB201-B6
+Added Net: Name=DET_P
+Added Pin To Net: NetName=LED_DRV_SUP Pin=C207-1
+Added Pin To Net: NetName=LED_DRV_SUP Pin=D203-2
+Added Pin To Net: NetName=LED_DRV_SUP Pin=D204-2
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U202-17
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U202-18
+Added Net: Name=LED_DRV_SUP
+Added Pin To Net: NetName=NetC202_1 Pin=C202-1
+Added Pin To Net: NetName=NetC202_1 Pin=U202-7
+Added Net: Name=NetC202_1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=NetC203_1 Pin=U202-9
+Added Net: Name=NetC203_1
+Added Pin To Net: NetName=NetL201_2 Pin=L201-2
+Added Pin To Net: NetName=NetL201_2 Pin=U202-1
+Added Net: Name=NetL201_2
+Added Pin To Net: NetName=NetL201_3 Pin=L201-3
+Added Pin To Net: NetName=NetL201_3 Pin=U202-2
+Added Net: Name=NetL201_3
+Added Pin To Net: NetName=NetR201_2 Pin=R201-2
+Added Pin To Net: NetName=NetR201_2 Pin=U202-4
+Added Net: Name=NetR201_2
+Added Pin To Net: NetName=RX_ANA_SUP Pin=U202-33
+Added Pin To Net: NetName=RX_ANA_SUP Pin=U202-39
+Added Net: Name=RX_ANA_SUP
+Added Pin To Net: NetName=RX_DIG_SUP Pin=C205-1
+Added Pin To Net: NetName=RX_DIG_SUP Pin=U202-31
+Added Net: Name=RX_DIG_SUP
+Added Pin To Net: NetName=RX_SUP Pin=D201-2
+Added Pin To Net: NetName=RX_SUP Pin=D202-2
+Added Net: Name=RX_SUP
+Added Pin To Net: NetName=TX_CTRL_SUP Pin=C204-1
+Added Pin To Net: NetName=TX_CTRL_SUP Pin=C206-1
+Added Pin To Net: NetName=TX_CTRL_SUP Pin=U202-11
+Added Net: Name=TX_CTRL_SUP
+Added Pin To Net: NetName=TXM Pin=D203-3
+Added Pin To Net: NetName=TXM Pin=U202-14
+Added Pin To Net: NetName=TXM Pin=USB201-A7
+Added Pin To Net: NetName=TXM Pin=USB201-B7
+Added Net: Name=TXM
+Added Pin To Net: NetName=TXP Pin=D204-3
+Added Pin To Net: NetName=TXP Pin=U202-15
+Added Pin To Net: NetName=TXP Pin=USB201-A8
+Added Pin To Net: NetName=TXP Pin=USB201-B8
+Added Net: Name=TXP
+Added Pin To Net: NetName=VCM_SHIELD Pin=C201-1
+Added Pin To Net: NetName=VCM_SHIELD Pin=R201-1
+Added Net: Name=VCM_SHIELD
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=TOP

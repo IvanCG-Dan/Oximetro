@@ -1,0 +1,19 @@
+Change Physical Footprint: Designator=C22 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=C23 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=C24 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=C27 Old Footprint=C-0603 New Footprint=C-0603
+Change Physical Footprint: Designator=C101 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C202 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C509 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C513 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C516 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=D20 Old Footprint=DO-214AA d New Footprint=DO-214AA d
+Change Physical Footprint: Designator=R21 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R23 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R28 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R105 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=S101 Old Footprint=TL3315 New Footprint=TL3315
+Change Physical Footprint: Designator=U22 Old Footprint=SOT-23-5_3d New Footprint=SOT-23-5_3d
+Change Physical Footprint: Designator=U101 Old Footprint=PVQFN-N64 New Footprint=PVQFN-N64
+Change Physical Footprint: Designator=U501 Old Footprint=DSK New Footprint=DSK
+Change Physical Footprint: Designator=USB201 Old Footprint=USB C New Footprint=USB C

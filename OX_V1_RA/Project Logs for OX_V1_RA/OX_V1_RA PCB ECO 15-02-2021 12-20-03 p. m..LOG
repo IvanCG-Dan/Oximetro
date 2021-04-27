@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-2
+Removed Pin From Net: NetName=USB_CONNECTED Pin=U2-4
+Change Component DesignItemId : Designator=U2 Old DesignItemId=SN74AHC1G125DBVR New DesignItemId=SN74AHC1G08DBV3
+Change Component Description : Designator=U2 Old Description=BUFFER New Description=AND GATE
+Added Component: Designator=U3(SOT23-5)
+Added Pin To Net: NetName=USB_CONNECTED Pin=U2-1
+Added Pin To Net: NetName=STAT Pin=U2-2
+Added Pin To Net: NetName=NetR3_1 Pin=U3-2
+Added Pin To Net: NetName=AGND Pin=U3-3
+Added Pin To Net: NetName=USB_CONNECTED Pin=U3-4
+Added Pin To Net: NetName=3.3V Pin=U3-5
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Net: Name=NetU2_4
+Added Member To Class: ClassName=AFE Member=Component U3 #NAME?

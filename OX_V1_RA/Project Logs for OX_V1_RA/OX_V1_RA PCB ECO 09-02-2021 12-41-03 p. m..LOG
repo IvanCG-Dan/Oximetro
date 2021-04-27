@@ -1,0 +1,348 @@
+Added Component: Designator=C22(C-0402)
+Added Component: Designator=C23(C-0402)
+Added Component: Designator=C24(CR-0402)
+Added Component: Designator=C25(CR-0402)
+Added Component: Designator=C26(C-0603)
+Added Component: Designator=C27(C-0603)
+Added Component: Designator=C28(CR-0402)
+Added Component: Designator=C29(C-0603)
+Added Component: Designator=C30(C-0603)
+Added Component: Designator=C101(C0603_P)
+Added Component: Designator=C102(C0402)
+Added Component: Designator=C103(C0402)
+Added Component: Designator=C104(C0402)
+Added Component: Designator=C106(C0402)
+Added Component: Designator=C107(C0402)
+Added Component: Designator=C201(C0402)
+Added Component: Designator=C202(C0603_P)
+Added Component: Designator=C203(C0603_P)
+Added Component: Designator=C204(C0402)
+Added Component: Designator=C205(C0402)
+Added Component: Designator=C206(C0402)
+Added Component: Designator=C207(C0603_P)
+Added Component: Designator=D20(DO-214AA d)
+Added Component: Designator=D27(LED-0402 - B)
+Added Component: Designator=D101(LED_0402_BLUE)
+Added Component: Designator=D102(LED_0402_GREEN)
+Added Component: Designator=D201(SOT-323)
+Added Component: Designator=D202(SOT-323)
+Added Component: Designator=D203(SOT-323)
+Added Component: Designator=D204(SOT-323)
+Added Component: Designator=J101(TC2050-IDC-NL)
+Added Component: Designator=L201(IND_1206-4P)
+Added Component: Designator=LED100(LED-RGB 0606)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=P5(HDR1X14)
+Added Component: Designator=R20(CR-0402)
+Added Component: Designator=R21(CR-0402)
+Added Component: Designator=R23(CR-0402)
+Added Component: Designator=R25(0402)
+Added Component: Designator=R26(CR-0402)
+Added Component: Designator=R28(CR-0402)
+Added Component: Designator=R29(CR-0402)
+Added Component: Designator=R30(CR-0402)
+Added Component: Designator=R101(0201)
+Added Component: Designator=R102(0201)
+Added Component: Designator=R103(0201)
+Added Component: Designator=R105(CR-0402)
+Added Component: Designator=R106(CR-0402)
+Added Component: Designator=R107(CR-0402)
+Added Component: Designator=R108(CR-0402)
+Added Component: Designator=R201(0201)
+Added Component: Designator=R202(0201)
+Added Component: Designator=S101(TL3315)
+Added Component: Designator=U20(TDFN8)
+Added Component: Designator=U21(SO8 DDA)
+Added Component: Designator=U22(SOT-23-5_3d)
+Added Component: Designator=U101(PVQFN-N64)
+Added Component: Designator=U202(QFN-40[RHA-42P])
+Added Component: Designator=USB201(USB C)
+Added Component: Designator=Y101(CRYSTAL-2X4.5MM_3P)
+Added Component: Designator=Y201(RESONATOR-1.3X3.2-MURATA)
+Added Pin To Net: NetName=DVCC_MSP430 Pin=C22-1
+Added Pin To Net: NetName=V_IN Pin=C23-1
+Added Pin To Net: NetName=VCC Pin=C24-1
+Added Pin To Net: NetName=3.3V Pin=C25-1
+Added Pin To Net: NetName=ADJ Pin=C25-2
+Added Pin To Net: NetName=BATERIA Pin=C26-1
+Added Pin To Net: NetName=3.3V Pin=C27-1
+Added Pin To Net: NetName=BYP Pin=C28-1
+Added Pin To Net: NetName=VREG Pin=C29-1
+Added Pin To Net: NetName=BATERIA Pin=C30-1
+Added Pin To Net: NetName=AVCC Pin=C101-1
+Added Pin To Net: NetName=AGND_MSP Pin=C101-2
+Added Pin To Net: NetName=V18 Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=3V3 Pin=C103-1
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=3V3 Pin=C104-1
+Added Pin To Net: NetName=GND Pin=C104-2
+Added Pin To Net: NetName=NetC106_1 Pin=C106-1
+Added Pin To Net: NetName=GND Pin=C106-2
+Added Pin To Net: NetName=AVCC Pin=C107-1
+Added Pin To Net: NetName=AGND_MSP Pin=C107-2
+Added Pin To Net: NetName=VCM_SHIELD Pin=C201-1
+Added Pin To Net: NetName=AGND Pin=C201-2
+Added Pin To Net: NetName=NetC202_1 Pin=C202-1
+Added Pin To Net: NetName=AGND Pin=C202-2
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=AGND Pin=C203-2
+Added Pin To Net: NetName=TX_CTRL_SUP Pin=C204-1
+Added Pin To Net: NetName=AGND Pin=C204-2
+Added Pin To Net: NetName=RX_DIG_SUP Pin=C205-1
+Added Pin To Net: NetName=AGND Pin=C205-2
+Added Pin To Net: NetName=TX_CTRL_SUP Pin=C206-1
+Added Pin To Net: NetName=AGND Pin=C206-2
+Added Pin To Net: NetName=LED_DRV_SUP Pin=C207-1
+Added Pin To Net: NetName=AGND Pin=C207-2
+Added Pin To Net: NetName=VIN Pin=D20-1
+Added Pin To Net: NetName=VREG Pin=D20-2
+Added Pin To Net: NetName=NetD27_1 Pin=D27-1
+Added Pin To Net: NetName=STAT Pin=D27-2
+Added Pin To Net: NetName=LED2 Pin=D101-A
+Added Pin To Net: NetName=NetD101_K Pin=D101-K
+Added Pin To Net: NetName=LED1 Pin=D102-A
+Added Pin To Net: NetName=NetD102_K Pin=D102-K
+Added Pin To Net: NetName=AGND Pin=D201-1
+Added Pin To Net: NetName=RX_SUP Pin=D201-2
+Added Pin To Net: NetName=DET_M Pin=D201-3
+Added Pin To Net: NetName=AGND Pin=D202-1
+Added Pin To Net: NetName=RX_SUP Pin=D202-2
+Added Pin To Net: NetName=DET_P Pin=D202-3
+Added Pin To Net: NetName=AGND Pin=D203-1
+Added Pin To Net: NetName=LED_DRV_SUP Pin=D203-2
+Added Pin To Net: NetName=TXM Pin=D203-3
+Added Pin To Net: NetName=AGND Pin=D204-1
+Added Pin To Net: NetName=LED_DRV_SUP Pin=D204-2
+Added Pin To Net: NetName=TXP Pin=D204-3
+Added Pin To Net: NetName=TDO_MSP430 Pin=J101-1
+Added Pin To Net: NetName=DVCC_JTAG Pin=J101-2
+Added Pin To Net: NetName=TDI_MSP430 Pin=J101-3
+Added Pin To Net: NetName=3V3 Pin=J101-4
+Added Pin To Net: NetName=TMS_MSP430 Pin=J101-5
+Added Pin To Net: NetName=TCK_MSP430 Pin=J101-7
+Added Pin To Net: NetName=TEST/SBWTCK_MSP430 Pin=J101-8
+Added Pin To Net: NetName=GND Pin=J101-9
+Added Pin To Net: NetName=R\S\T\/SBWTDIO_MSP430 Pin=J101-10
+Added Pin To Net: NetName=DET_M Pin=L201-1
+Added Pin To Net: NetName=NetL201_2 Pin=L201-2
+Added Pin To Net: NetName=NetL201_3 Pin=L201-3
+Added Pin To Net: NetName=DET_P Pin=L201-4
+Added Pin To Net: NetName=NetLED100_1 Pin=LED100-1
+Added Pin To Net: NetName=NetLED100_2 Pin=LED100-2
+Added Pin To Net: NetName=NetLED100_3 Pin=LED100-3
+Added Pin To Net: NetName=3V3 Pin=LED100-4
+Added Pin To Net: NetName=BATERIA Pin=P4-1
+Added Pin To Net: NetName=BATERIA Pin=P5-1
+Added Pin To Net: NetName=BATERIA Pin=P5-2
+Added Pin To Net: NetName=DVCC_MSP430 Pin=P5-5
+Added Pin To Net: NetName=RX_CC Pin=P5-6
+Added Pin To Net: NetName=TX_CC Pin=P5-7
+Added Pin To Net: NetName=RESET Pin=P5-8
+Added Pin To Net: NetName=SDA_FG Pin=P5-10
+Added Pin To Net: NetName=ALCC_FG Pin=P5-11
+Added Pin To Net: NetName=SCL_FG Pin=P5-12
+Added Pin To Net: NetName=VIN Pin=P5-13
+Added Pin To Net: NetName=ALCC_FG Pin=R20-1
+Added Pin To Net: NetName=DVCC_MSP430 Pin=R20-2
+Added Pin To Net: NetName=VCC Pin=R21-1
+Added Pin To Net: NetName=DVCC_MSP430 Pin=R21-2
+Added Pin To Net: NetName=V_IN Pin=R23-1
+Added Pin To Net: NetName=BATERIA Pin=R23-2
+Added Pin To Net: NetName=CG Pin=R25-2
+Added Pin To Net: NetName=ADJ Pin=R26-1
+Added Pin To Net: NetName=3.3V Pin=R26-2
+Added Pin To Net: NetName=ADJ Pin=R28-2
+Added Pin To Net: NetName=PROG Pin=R29-2
+Added Pin To Net: NetName=VREG Pin=R30-1
+Added Pin To Net: NetName=NetD27_1 Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R101-1
+Added Pin To Net: NetName=NetD101_K Pin=R101-2
+Added Pin To Net: NetName=XT2IN Pin=R102-2
+Added Pin To Net: NetName=GND Pin=R103-1
+Added Pin To Net: NetName=NetD102_K Pin=R103-2
+Added Pin To Net: NetName=GND Pin=R105-1
+Added Pin To Net: NetName=BTN INICIO Pin=R105-2
+Added Pin To Net: NetName=LEDR Pin=R106-1
+Added Pin To Net: NetName=NetLED100_2 Pin=R106-2
+Added Pin To Net: NetName=LEDG Pin=R107-1
+Added Pin To Net: NetName=NetLED100_1 Pin=R107-2
+Added Pin To Net: NetName=LEDB Pin=R108-1
+Added Pin To Net: NetName=NetLED100_3 Pin=R108-2
+Added Pin To Net: NetName=VCM_SHIELD Pin=R201-1
+Added Pin To Net: NetName=NetR201_2 Pin=R201-2
+Added Pin To Net: NetName=ACLK_MSP430 Pin=R202-1
+Added Pin To Net: NetName=AFE_XIN Pin=R202-2
+Added Pin To Net: NetName=3V3 Pin=S101-1
+Added Pin To Net: NetName=BTN INICIO Pin=S101-2
+Added Pin To Net: NetName=ALCC_FG Pin=U20-1
+Added Pin To Net: NetName=SDA_FG Pin=U20-2
+Added Pin To Net: NetName=SCL_FG Pin=U20-3
+Added Pin To Net: NetName=CG Pin=U20-5
+Added Pin To Net: NetName=VCC Pin=U20-7
+Added Pin To Net: NetName=V_IN Pin=U20-8
+Added Pin To Net: NetName=BYP Pin=U21-1
+Added Pin To Net: NetName=BATERIA Pin=U21-4
+Added Pin To Net: NetName=3.3V Pin=U21-5
+Added Pin To Net: NetName=ADJ Pin=U21-6
+Added Pin To Net: NetName=STAT Pin=U22-1
+Added Pin To Net: NetName=BATERIA Pin=U22-3
+Added Pin To Net: NetName=VREG Pin=U22-4
+Added Pin To Net: NetName=PROG Pin=U22-5
+Added Pin To Net: NetName=LEDR Pin=U101-1
+Added Pin To Net: NetName=LEDG Pin=U101-2
+Added Pin To Net: NetName=LEDB Pin=U101-3
+Added Pin To Net: NetName=/SD WIFI Pin=U101-4
+Added Pin To Net: NetName=BTN INICIO Pin=U101-8
+Added Pin To Net: NetName=AVCC Pin=U101-11
+Added Pin To Net: NetName=AGND_MSP Pin=U101-14
+Added Pin To Net: NetName=3V3 Pin=U101-15
+Added Pin To Net: NetName=GND Pin=U101-16
+Added Pin To Net: NetName=NetC106_1 Pin=U101-17
+Added Pin To Net: NetName=RESET Pin=U101-20
+Added Pin To Net: NetName=LED1 Pin=U101-21
+Added Pin To Net: NetName=LED2 Pin=U101-22
+Added Pin To Net: NetName=INT_MPU Pin=U101-27
+Added Pin To Net: NetName=SDA Pin=U101-34
+Added Pin To Net: NetName=SCL Pin=U101-35
+Added Pin To Net: NetName=ALCC Pin=U101-36
+Added Pin To Net: NetName=UART_RX_BLE Pin=U101-37
+Added Pin To Net: NetName=UART_TX_BLE Pin=U101-38
+Added Pin To Net: NetName=GND Pin=U101-39
+Added Pin To Net: NetName=3V3 Pin=U101-40
+Added Pin To Net: NetName=P4.7/PM_NONE Pin=U101-48
+Added Pin To Net: NetName=GND Pin=U101-49
+Added Pin To Net: NetName=VUSB Pin=U101-54
+Added Pin To Net: NetName=V18 Pin=U101-55
+Added Pin To Net: NetName=AGND_MSP Pin=U101-56
+Added Pin To Net: NetName=XT2IN Pin=U101-57
+Added Pin To Net: NetName=XT2OUT Pin=U101-58
+Added Pin To Net: NetName=TEST/SBWTCK_MSP430 Pin=U101-59
+Added Pin To Net: NetName=TDO_MSP430 Pin=U101-60
+Added Pin To Net: NetName=TDI_MSP430 Pin=U101-61
+Added Pin To Net: NetName=TMS_MSP430 Pin=U101-62
+Added Pin To Net: NetName=TCK_MSP430 Pin=U101-63
+Added Pin To Net: NetName=R\S\T\/SBWTDIO_MSP430 Pin=U101-64
+Added Pin To Net: NetName=NetL201_2 Pin=U202-1
+Added Pin To Net: NetName=NetL201_3 Pin=U202-2
+Added Pin To Net: NetName=AGND Pin=U202-3
+Added Pin To Net: NetName=NetR201_2 Pin=U202-4
+Added Pin To Net: NetName=NetC202_1 Pin=U202-7
+Added Pin To Net: NetName=AGND Pin=U202-8
+Added Pin To Net: NetName=NetC203_1 Pin=U202-9
+Added Pin To Net: NetName=TX_CTRL_SUP Pin=U202-11
+Added Pin To Net: NetName=AGND Pin=U202-12
+Added Pin To Net: NetName=AGND Pin=U202-13
+Added Pin To Net: NetName=TXM Pin=U202-14
+Added Pin To Net: NetName=TXP Pin=U202-15
+Added Pin To Net: NetName=AGND Pin=U202-16
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U202-17
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U202-18
+Added Pin To Net: NetName=AGND Pin=U202-19
+Added Pin To Net: NetName=AFE_PDNZ Pin=U202-20
+Added Pin To Net: NetName=AFE_DIAG_END Pin=U202-21
+Added Pin To Net: NetName=AFE_LED_ALM Pin=U202-22
+Added Pin To Net: NetName=AFE_PD_ALM Pin=U202-23
+Added Pin To Net: NetName=SPI_CLK Pin=U202-24
+Added Pin To Net: NetName=SPI_SOMI Pin=U202-25
+Added Pin To Net: NetName=SPI_SIMO Pin=U202-26
+Added Pin To Net: NetName=SPI_STE Pin=U202-27
+Added Pin To Net: NetName=AFE_ADC_RDY Pin=U202-28
+Added Pin To Net: NetName=AFE_RESETZ Pin=U202-29
+Added Pin To Net: NetName=AFE_CLKOUT Pin=U202-30
+Added Pin To Net: NetName=RX_DIG_SUP Pin=U202-31
+Added Pin To Net: NetName=AGND Pin=U202-32
+Added Pin To Net: NetName=RX_ANA_SUP Pin=U202-33
+Added Pin To Net: NetName=AGND Pin=U202-36
+Added Pin To Net: NetName=AFE_XOUT Pin=U202-37
+Added Pin To Net: NetName=AFE_XIN Pin=U202-38
+Added Pin To Net: NetName=RX_ANA_SUP Pin=U202-39
+Added Pin To Net: NetName=AGND Pin=U202-40
+Added Pin To Net: NetName=AGND Pin=U202-41
+Added Pin To Net: NetName=AGND Pin=USB201-A1
+Added Pin To Net: NetName=VIN Pin=USB201-A4
+Added Pin To Net: NetName=DET_M Pin=USB201-A5
+Added Pin To Net: NetName=DET_P Pin=USB201-A6
+Added Pin To Net: NetName=TXM Pin=USB201-A7
+Added Pin To Net: NetName=TXP Pin=USB201-A8
+Added Pin To Net: NetName=VIN Pin=USB201-A9
+Added Pin To Net: NetName=AGND Pin=USB201-A12
+Added Pin To Net: NetName=AGND Pin=USB201-B1
+Added Pin To Net: NetName=VIN Pin=USB201-B4
+Added Pin To Net: NetName=DET_M Pin=USB201-B5
+Added Pin To Net: NetName=DET_P Pin=USB201-B6
+Added Pin To Net: NetName=TXM Pin=USB201-B7
+Added Pin To Net: NetName=TXP Pin=USB201-B8
+Added Pin To Net: NetName=VIN Pin=USB201-B9
+Added Pin To Net: NetName=AGND Pin=USB201-B12
+Added Pin To Net: NetName=XT2IN Pin=Y101-1
+Added Pin To Net: NetName=GND Pin=Y101-2
+Added Pin To Net: NetName=XT2OUT Pin=Y101-3
+Added Pin To Net: NetName=AFE_XIN Pin=Y201-1
+Added Pin To Net: NetName=AGND Pin=Y201-2
+Added Pin To Net: NetName=AFE_XOUT Pin=Y201-3
+Added Member To Class: ClassName=Designator Member=Component C22 100 nF
+Added Member To Class: ClassName=Designator Member=Component C23 100 nF
+Added Member To Class: ClassName=Designator Member=Component C24 1 uF
+Added Member To Class: ClassName=Designator Member=Component C25 1 nF
+Added Member To Class: ClassName=Designator Member=Component C26 10 uF
+Added Member To Class: ClassName=Designator Member=Component C27 10 uF
+Added Member To Class: ClassName=Designator Member=Component C28 10 nF
+Added Member To Class: ClassName=Designator Member=Component C29 4.7uF
+Added Member To Class: ClassName=Designator Member=Component C30 4.7uF
+Added Member To Class: ClassName=Designator Member=Component C101 10 uF
+Added Member To Class: ClassName=Designator Member=Component C102 220 nF
+Added Member To Class: ClassName=Designator Member=Component C103 100 nF
+Added Member To Class: ClassName=Designator Member=Component C104 100 nF
+Added Member To Class: ClassName=Designator Member=Component C106 470 nF
+Added Member To Class: ClassName=Designator Member=Component C107 100 nF
+Added Member To Class: ClassName=Designator Member=Component C201 10 nF
+Added Member To Class: ClassName=Designator Member=Component C202 2.2 uF
+Added Member To Class: ClassName=Designator Member=Component C203 2.2 uF
+Added Member To Class: ClassName=Designator Member=Component C204 100 nF
+Added Member To Class: ClassName=Designator Member=Component C205 100 nF
+Added Member To Class: ClassName=Designator Member=Component C206 100 nF
+Added Member To Class: ClassName=Designator Member=Component C207 2.2 uF
+Added Member To Class: ClassName=Designator Member=Component D20 58K2394
+Added Member To Class: ClassName=Designator Member=Component D27 LED0
+Added Member To Class: ClassName=Designator Member=Component D101 #NAME?
+Added Member To Class: ClassName=Designator Member=Component D102 #NAME?
+Added Member To Class: ClassName=Designator Member=Component D201 #NAME?
+Added Member To Class: ClassName=Designator Member=Component D202 #NAME?
+Added Member To Class: ClassName=Designator Member=Component D203 #NAME?
+Added Member To Class: ClassName=Designator Member=Component D204 #NAME?
+Added Member To Class: ClassName=Designator Member=Component J101 PartNumber
+Added Member To Class: ClassName=Designator Member=Component L201 #NAME?
+Added Member To Class: ClassName=Designator Member=Component LED100 LED RGB AnodoComun
+Added Member To Class: ClassName=TOP Member=Component P4 Bateria
+Added Member To Class: ClassName=TOP Member=Component P5 Header 14
+Added Member To Class: ClassName=Designator Member=Component R20 4K7
+Added Member To Class: ClassName=Designator Member=Component R21 150R
+Added Member To Class: ClassName=Designator Member=Component R23 1K
+Added Member To Class: ClassName=Designator Member=Component R25 0402
+Added Member To Class: ClassName=Designator Member=Component R26 4.02K
+Added Member To Class: ClassName=Designator Member=Component R28 1K
+Added Member To Class: ClassName=Designator Member=Component R29 2K
+Added Member To Class: ClassName=Designator Member=Component R30 330
+Added Member To Class: ClassName=Designator Member=Component R101 3.3K
+Added Member To Class: ClassName=Designator Member=Component R102 (DNP)
+Added Member To Class: ClassName=Designator Member=Component R103 3.3K
+Added Member To Class: ClassName=Designator Member=Component R105 Res1
+Added Member To Class: ClassName=Designator Member=Component R106 Res1
+Added Member To Class: ClassName=Designator Member=Component R107 Res1
+Added Member To Class: ClassName=Designator Member=Component R108 Res1
+Added Member To Class: ClassName=Designator Member=Component R201 1K
+Added Member To Class: ClassName=Designator Member=Component R202 (DNP)
+Added Member To Class: ClassName=Designator Member=Component S101 SW-PB
+Added Member To Class: ClassName=Designator Member=Component U20 #NAME?
+Added Member To Class: ClassName=Designator Member=Component U21 #NAME?
+Added Member To Class: ClassName=Designator Member=Component U22 MCP73831T-2ACI/OT
+Added Member To Class: ClassName=Designator Member=Component U101 #NAME?
+Added Member To Class: ClassName=Designator Member=Component U202 PartNumber
+Added Member To Class: ClassName=Designator Member=Component USB201 USB type C
+Added Member To Class: ClassName=Designator Member=Component Y101 #NAME?
+Added Member To Class: ClassName=Designator Member=Component Y201 #NAME?
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=TOP

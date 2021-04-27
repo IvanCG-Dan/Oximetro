@@ -1,0 +1,10 @@
+Added Component: Designator=P2(HEAD8-NOSS)
+Added Pin To Net: NetName=COMPLETE Pin=P2-1
+Added Pin To Net: NetName=UART_TX Pin=P2-2
+Added Pin To Net: NetName=VIN Pin=P2-3
+Added Pin To Net: NetName=USB_CONNECTED Pin=P2-4
+Added Pin To Net: NetName=AGND Pin=P2-5
+Added Pin To Net: NetName=3.3V Pin=P2-6
+Added Pin To Net: NetName=BATERIA_OUT Pin=P2-7
+Added Pin To Net: NetName=BATERIA_IN Pin=P2-8
+Added Member To Class: ClassName=SUPPLY Member=Component P2 68000-236HLF

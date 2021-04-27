@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PGND Pin=P101-11
+Removed Pin From Net: NetName=PGND Pin=P101-12
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

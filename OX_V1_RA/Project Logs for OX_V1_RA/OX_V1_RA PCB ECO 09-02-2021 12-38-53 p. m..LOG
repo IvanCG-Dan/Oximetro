@@ -1,0 +1,146 @@
+Added Component: Designator=C101(C0603_P)
+Added Component: Designator=C102(C0402)
+Added Component: Designator=C103(C0402)
+Added Component: Designator=C104(C0402)
+Added Component: Designator=C106(C0402)
+Added Component: Designator=C107(C0402)
+Added Component: Designator=D101(LED_0402_BLUE)
+Added Component: Designator=D102(LED_0402_GREEN)
+Added Component: Designator=J101(TC2050-IDC-NL)
+Added Component: Designator=LED100(LED-RGB 0606)
+Added Component: Designator=R101(0201)
+Added Component: Designator=R102(0201)
+Added Component: Designator=R103(0201)
+Added Component: Designator=R105(CR-0402)
+Added Component: Designator=R106(CR-0402)
+Added Component: Designator=R107(CR-0402)
+Added Component: Designator=R108(CR-0402)
+Added Component: Designator=S101(TL3315)
+Added Component: Designator=U101(PVQFN-N64)
+Added Component: Designator=Y101(CRYSTAL-2X4.5MM_3P)
+Added Pin To Net: NetName=RESET Pin=U101-20
+Added Pin To Net: NetName=3V3 Pin=C103-1
+Added Pin To Net: NetName=3V3 Pin=C104-1
+Added Pin To Net: NetName=3V3 Pin=J101-4
+Added Pin To Net: NetName=3V3 Pin=LED100-4
+Added Pin To Net: NetName=3V3 Pin=S101-1
+Added Pin To Net: NetName=3V3 Pin=U101-15
+Added Pin To Net: NetName=3V3 Pin=U101-40
+Added Net: Name=3V3
+Added Pin To Net: NetName=ACLK_MSP430 Pin=U101-18
+Added Net: Name=ACLK_MSP430
+Added Pin To Net: NetName=AFE_ADC_RDY Pin=U101-31
+Added Net: Name=AFE_ADC_RDY
+Added Pin To Net: NetName=AFE_CLKOUT Pin=R102-1
+Added Net: Name=AFE_CLKOUT
+Added Pin To Net: NetName=AFE_DIAG_END Pin=U101-28
+Added Net: Name=AFE_DIAG_END
+Added Pin To Net: NetName=AFE_LED_ALM Pin=U101-33
+Added Net: Name=AFE_LED_ALM
+Added Pin To Net: NetName=AFE_PD_ALM Pin=U101-32
+Added Net: Name=AFE_PD_ALM
+Added Pin To Net: NetName=AFE_PDNZ Pin=U101-30
+Added Net: Name=AFE_PDNZ
+Added Pin To Net: NetName=AFE_RESETZ Pin=U101-29
+Added Net: Name=AFE_RESETZ
+Added Pin To Net: NetName=AGND_MSP Pin=C101-2
+Added Pin To Net: NetName=AGND_MSP Pin=C107-2
+Added Pin To Net: NetName=AGND_MSP Pin=U101-14
+Added Pin To Net: NetName=AGND_MSP Pin=U101-56
+Added Net: Name=AGND_MSP
+Added Pin To Net: NetName=ALCC Pin=U101-36
+Added Net: Name=ALCC
+Added Pin To Net: NetName=AVCC Pin=C101-1
+Added Pin To Net: NetName=AVCC Pin=C107-1
+Added Pin To Net: NetName=AVCC Pin=U101-11
+Added Net: Name=AVCC
+Added Pin To Net: NetName=BTN INICIO Pin=R105-2
+Added Pin To Net: NetName=BTN INICIO Pin=S101-2
+Added Pin To Net: NetName=BTN INICIO Pin=U101-8
+Added Net: Name=BTN INICIO
+Added Pin To Net: NetName=DVCC_JTAG Pin=J101-2
+Added Net: Name=DVCC_JTAG
+Added Pin To Net: NetName=INT_MPU Pin=U101-27
+Added Net: Name=INT_MPU
+Added Pin To Net: NetName=LED1 Pin=D102-A
+Added Pin To Net: NetName=LED1 Pin=U101-21
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D101-A
+Added Pin To Net: NetName=LED2 Pin=U101-22
+Added Net: Name=LED2
+Added Pin To Net: NetName=LEDB Pin=R108-1
+Added Pin To Net: NetName=LEDB Pin=U101-3
+Added Net: Name=LEDB
+Added Pin To Net: NetName=LEDG Pin=R107-1
+Added Pin To Net: NetName=LEDG Pin=U101-2
+Added Net: Name=LEDG
+Added Pin To Net: NetName=LEDR Pin=R106-1
+Added Pin To Net: NetName=LEDR Pin=U101-1
+Added Net: Name=LEDR
+Added Pin To Net: NetName=NetC106_1 Pin=C106-1
+Added Pin To Net: NetName=NetC106_1 Pin=U101-17
+Added Net: Name=NetC106_1
+Added Pin To Net: NetName=NetD101_K Pin=D101-K
+Added Pin To Net: NetName=NetD101_K Pin=R101-2
+Added Net: Name=NetD101_K
+Added Pin To Net: NetName=NetD102_K Pin=D102-K
+Added Pin To Net: NetName=NetD102_K Pin=R103-2
+Added Net: Name=NetD102_K
+Added Pin To Net: NetName=NetLED100_1 Pin=LED100-1
+Added Pin To Net: NetName=NetLED100_1 Pin=R107-2
+Added Net: Name=NetLED100_1
+Added Pin To Net: NetName=NetLED100_2 Pin=LED100-2
+Added Pin To Net: NetName=NetLED100_2 Pin=R106-2
+Added Net: Name=NetLED100_2
+Added Pin To Net: NetName=NetLED100_3 Pin=LED100-3
+Added Pin To Net: NetName=NetLED100_3 Pin=R108-2
+Added Net: Name=NetLED100_3
+Added Pin To Net: NetName=P4.7/PM_NONE Pin=U101-48
+Added Net: Name=P4.7/PM_NONE
+Added Pin To Net: NetName=R\S\T\/SBWTDIO_MSP430 Pin=J101-10
+Added Pin To Net: NetName=R\S\T\/SBWTDIO_MSP430 Pin=U101-64
+Added Net: Name=R\S\T\/SBWTDIO_MSP430
+Added Pin To Net: NetName=SCL Pin=U101-35
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U101-34
+Added Net: Name=SDA
+Added Pin To Net: NetName=SPI_CLK Pin=U101-44
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_SIMO Pin=U101-42
+Added Net: Name=SPI_SIMO
+Added Pin To Net: NetName=SPI_SOMI Pin=U101-43
+Added Net: Name=SPI_SOMI
+Added Pin To Net: NetName=SPI_STE Pin=U101-41
+Added Net: Name=SPI_STE
+Added Pin To Net: NetName=TCK_MSP430 Pin=J101-7
+Added Pin To Net: NetName=TCK_MSP430 Pin=U101-63
+Added Net: Name=TCK_MSP430
+Added Pin To Net: NetName=TDI_MSP430 Pin=J101-3
+Added Pin To Net: NetName=TDI_MSP430 Pin=U101-61
+Added Net: Name=TDI_MSP430
+Added Pin To Net: NetName=TDO_MSP430 Pin=J101-1
+Added Pin To Net: NetName=TDO_MSP430 Pin=U101-60
+Added Net: Name=TDO_MSP430
+Added Pin To Net: NetName=TEST/SBWTCK_MSP430 Pin=J101-8
+Added Pin To Net: NetName=TEST/SBWTCK_MSP430 Pin=U101-59
+Added Net: Name=TEST/SBWTCK_MSP430
+Added Pin To Net: NetName=TMS_MSP430 Pin=J101-5
+Added Pin To Net: NetName=TMS_MSP430 Pin=U101-62
+Added Net: Name=TMS_MSP430
+Added Pin To Net: NetName=UART_RX_BLE Pin=U101-37
+Added Net: Name=UART_RX_BLE
+Added Pin To Net: NetName=UART_TX_BLE Pin=U101-38
+Added Net: Name=UART_TX_BLE
+Added Pin To Net: NetName=V18 Pin=C102-1
+Added Pin To Net: NetName=V18 Pin=U101-55
+Added Net: Name=V18
+Added Pin To Net: NetName=VUSB Pin=U101-54
+Added Net: Name=VUSB
+Added Pin To Net: NetName=XT2IN Pin=R102-2
+Added Pin To Net: NetName=XT2IN Pin=U101-57
+Added Pin To Net: NetName=XT2IN Pin=Y101-1
+Added Net: Name=XT2IN
+Added Pin To Net: NetName=XT2OUT Pin=U101-58
+Added Pin To Net: NetName=XT2OUT Pin=Y101-3
+Added Net: Name=XT2OUT
+Added Room: Name=Designator

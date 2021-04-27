@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=C22 NewDesignator=C8
+Change Component Designator: OldDesignator=C23 NewDesignator=C9
+Change Component Designator: OldDesignator=C24 NewDesignator=C10
+Change Component Designator: OldDesignator=C25 NewDesignator=C11
+Change Component Designator: OldDesignator=C26 NewDesignator=C12
+Change Component Designator: OldDesignator=C27 NewDesignator=C13
+Change Component Designator: OldDesignator=C28 NewDesignator=C14
+Change Component Designator: OldDesignator=C29 NewDesignator=C15
+Change Component Designator: OldDesignator=C30 NewDesignator=C16
+Change Component Designator: OldDesignator=D20 NewDesignator=D5
+Change Component Designator: OldDesignator=D27 NewDesignator=D6
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R20 NewDesignator=R5
+Change Component Designator: OldDesignator=R21 NewDesignator=R6
+Change Component Designator: OldDesignator=R23 NewDesignator=R7
+Change Component Designator: OldDesignator=R25 NewDesignator=R8
+Change Component Designator: OldDesignator=R26 NewDesignator=R9
+Change Component Designator: OldDesignator=R28 NewDesignator=R10
+Change Component Designator: OldDesignator=R29 NewDesignator=R11
+Change Component Designator: OldDesignator=R30 NewDesignator=R12
+Change Component Designator: OldDesignator=U20 NewDesignator=U4
+Change Component Designator: OldDesignator=U21 NewDesignator=U5
+Change Component Designator: OldDesignator=U22 NewDesignator=U6
+Added Component: Designator=P1(HDR1X2)
+Added Pin To Net: NetName=AGND Pin=P1-1
+Added Pin To Net: NetName=BATERIA_IN Pin=P1-2
+Change Net Name : Old Net Name=NetD27_1 New Net Name=NetD6_1
+Added Member To Class: ClassName=SUPPLY Member=Component P1 Bateria

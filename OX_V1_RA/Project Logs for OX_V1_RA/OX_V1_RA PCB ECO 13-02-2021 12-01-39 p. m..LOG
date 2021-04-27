@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=TOP Member=Component P4 B_ateria
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Change Room Name: Old Name=Designator_2 New Name=TOP
+Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('TOP')
+Added Room: Name=Designator
+Added Room: Name=Designator

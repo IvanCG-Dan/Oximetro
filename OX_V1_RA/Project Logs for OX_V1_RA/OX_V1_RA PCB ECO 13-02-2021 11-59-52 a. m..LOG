@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VIN Pin=D20-1
+Removed Pin From Net: NetName=BATERIA_IN Pin=P4-1
+Change Component Comment : Designator=P4 Old Comment=Bateria New Comment=B_ateria
+Added Component: Designator=P?(HEAD8-NOSS)
+Added Pin To Net: NetName=BATERIA_IN Pin=P4-1
+Added Pin To Net: NetName=VIN Pin=P?-3
+Added Pin To Net: NetName=3.3V Pin=P?-6
+Added Pin To Net: NetName=BATERIA_IN Pin=P?-7
+Change Net Name : Old Net Name=BATERIA New Net Name=BATERIA_OUT
+Added Pin To Net: NetName=COMPLETE Pin=P?-1
+Added Net: Name=COMPLETE
+Added Pin To Net: NetName=USB_CONNECTED Pin=P?-4
+Added Net: Name=USB_CONNECTED
+Added Member To Class: ClassName=TOP Member=Component P? 68000-236HLF
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=TOP

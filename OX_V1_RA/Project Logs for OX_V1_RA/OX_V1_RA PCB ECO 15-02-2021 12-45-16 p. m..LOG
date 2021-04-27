@@ -1,0 +1,24 @@
+Change Physical Footprint: Designator=C1 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C8 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=C9 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=C10 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=C13 Old Footprint=C-0603 New Footprint=C-0603
+Change Physical Footprint: Designator=C15 Old Footprint=C-0603 New Footprint=C-0603
+Change Physical Footprint: Designator=C16 Old Footprint=C-0603 New Footprint=C-0603
+Change Physical Footprint: Designator=C101 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C509 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C513 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=C516 Old Footprint=C0603_P New Footprint=C0603_P
+Change Physical Footprint: Designator=D6 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=P2 Old Footprint=HEAD8-NOSS New Footprint=HEAD8-NOSS
+Change Physical Footprint: Designator=R6 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R7 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R10 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R11 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=R105 Old Footprint=CR-0402 New Footprint=CR-0402
+Change Physical Footprint: Designator=S101 Old Footprint=TL3315 New Footprint=TL3315
+Change Physical Footprint: Designator=U4 Old Footprint=TDFN8 New Footprint=TDFN8
+Change Physical Footprint: Designator=U6 Old Footprint=SOT-23-5_3d New Footprint=SOT-23-5_3d
+Change Physical Footprint: Designator=U101 Old Footprint=PVQFN-N64 New Footprint=PVQFN-N64
+Change Physical Footprint: Designator=U501 Old Footprint=DSK New Footprint=DSK
+Change Physical Footprint: Designator=USB1 Old Footprint=USB C New Footprint=USB C

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=LED_DRV_SUP Pin=C520-1
+Removed Pin From Net: NetName=RX_SUP Pin=D201-2
+Removed Pin From Net: NetName=RX_SUP Pin=D202-2
+Removed Pin From Net: NetName=AVCC Pin=U101-11
+Removed Pin From Net: NetName=ACLK_MSP430 Pin=U101-18
+Removed Pin From Net: NetName=LED_DRV_SUP Pin=U202-17
+Removed Pin From Net: NetName=LED_DRV_SUP Pin=U202-18
+Added Pin To Net: NetName=RX_SUP Pin=L503-1
+Added Pin To Net: NetName=RX_SUP Pin=L504-1
+Added Pin To Net: NetName=RX_SUP Pin=TP504-1
+Change Net Name : Old Net Name=RX_ANA_SUP New Net Name=NetU202_33
+Added Pin To Net: NetName=NetU202_17 Pin=U202-17
+Added Pin To Net: NetName=NetU202_17 Pin=U202-18
+Added Net: Name=NetU202_17
+Added Pin To Net: NetName=RX_ANA_SUP Pin=C517-1
+Added Pin To Net: NetName=RX_ANA_SUP Pin=L504-2
+Added Net: Name=RX_ANA_SUP

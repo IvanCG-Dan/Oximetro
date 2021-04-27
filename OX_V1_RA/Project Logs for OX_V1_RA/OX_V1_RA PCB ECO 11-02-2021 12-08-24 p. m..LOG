@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VIN Pin=P101-2
+Removed Pin From Net: NetName=BATERIA Pin=P101-13
+Removed Pin From Net: NetName=BATERIA Pin=P101-14
+Removed Member From Class: ClassName=Designator Member=P101
+Added Component: Designator=P?(Con 503480-1400)
+Added Pin To Net: NetName=VIN Pin=P?-2
+Added Pin To Net: NetName=BATERIA Pin=P?-13
+Added Pin To Net: NetName=BATERIA Pin=P?-14
+Added Pin To Net: NetName=NetP?_8 Pin=P?-8
+Added Net: Name=NetP?_8
+Added Pin To Net: NetName=NetP?_9 Pin=P?-9
+Added Net: Name=NetP?_9
+Added Member To Class: ClassName=Designator Member=Component P? Header 14

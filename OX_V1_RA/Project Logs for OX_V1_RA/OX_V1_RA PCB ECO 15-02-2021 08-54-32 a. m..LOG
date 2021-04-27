@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=3V3 Pin=C22-1
+Removed Pin From Net: NetName=AGND Pin=C102-2
+Removed Pin From Net: NetName=AGND Pin=C103-2
+Removed Pin From Net: NetName=AGND Pin=C104-2
+Removed Pin From Net: NetName=AGND Pin=C105-2
+Removed Pin From Net: NetName=AGND Pin=C106-2
+Removed Pin From Net: NetName=AGND Pin=C201-2
+Removed Pin From Net: NetName=AGND Pin=C202-2
+Removed Pin From Net: NetName=AGND Pin=C203-2
+Removed Pin From Net: NetName=AGND Pin=C204-2
+Removed Pin From Net: NetName=AGND Pin=C205-2
+Removed Pin From Net: NetName=AGND Pin=C206-2
+Removed Pin From Net: NetName=AGND Pin=C207-2
+Removed Pin From Net: NetName=BATERIA_OUT Pin=C501-1
+Removed Pin From Net: NetName=AGND Pin=C501-2
+Removed Pin From Net: NetName=AGND Pin=C503-2
+Removed Pin From Net: NetName=AGND Pin=C504-2
+Removed Pin From Net: NetName=AGND Pin=C505-2
+Removed Pin From Net: NetName=AGND Pin=C506-2
+Removed Pin From Net: NetName=AGND Pin=C507-2
+Removed Pin From Net: NetName=AGND Pin=C508-2
+Removed Pin From Net: NetName=AGND Pin=C509-2
+Removed Pin From Net: NetName=3V3 Pin=C510-1
+Removed Pin From Net: NetName=3V3 Pin=C512-1
+Removed Pin From Net: NetName=AGND Pin=C512-2
+Removed Pin From Net: NetName=AGND Pin=C513-2
+Removed Pin From Net: NetName=AGND Pin=C514-2
+Removed Pin From Net: NetName=AGND Pin=C516-2
+Removed Pin From Net: NetName=AGND Pin=C517-2
+Removed Pin From Net: NetName=AGND Pin=C519-2
+Removed Pin From Net: NetName=AGND Pin=C520-2
+Removed Pin From Net: NetName=AGND Pin=C521-2
+Removed Pin From Net: NetName=AGND Pin=D201-1
+Removed Pin From Net: NetName=AGND Pin=D202-1
+Removed Pin From Net: NetName=AGND Pin=D203-1
+Removed Pin From Net: NetName=AGND Pin=D204-1
+Removed Pin From Net: NetName=AGND Pin=J101-9
+Removed Pin From Net: NetName=AGND Pin=L102-1
+Removed Pin From Net: NetName=BATERIA_OUT Pin=L501-1
+Removed Pin From Net: NetName=3V3 Pin=L502-1
+Removed Pin From Net: NetName=AVCC Pin=L502-2
+Removed Pin From Net: NetName=3V3 Pin=R20-2
+Removed Pin From Net: NetName=3V3 Pin=R21-2
+Removed Pin From Net: NetName=AGND Pin=R101-1
+Removed Pin From Net: NetName=AGND Pin=R103-1
+Removed Pin From Net: NetName=AGND Pin=R105-1
+Removed Pin From Net: NetName=ACLK_MSP430 Pin=R202-1
+Removed Pin From Net: NetName=AGND Pin=R502-1
+Removed Pin From Net: NetName=AGND Pin=R504-1
+Removed Pin From Net: NetName=3V3 Pin=R505-2
+Removed Pin From Net: NetName=AGND Pin=R506-1
+Removed Pin From Net: NetName=AGND Pin=R508-1
+Removed Pin From Net: NetName=AGND Pin=R510-1
+Removed Pin From Net: NetName=BATERIA_OUT Pin=R511-1
+Removed Pin From Net: NetName=3V3 Pin=TP503-1
+Removed Pin From Net: NetName=/SD WIFI Pin=U21-8
+Removed Pin From Net: NetName=AGND Pin=U101-16
+Removed Pin From Net: NetName=AGND Pin=U101-39
+Removed Pin From Net: NetName=AGND Pin=U101-49
+Removed Pin From Net: NetName=AGND Pin=U202-3
+Removed Pin From Net: NetName=AGND Pin=U202-8
+Removed Pin From Net: NetName=AGND Pin=U202-12
+Removed Pin From Net: NetName=AGND Pin=U202-13
+Removed Pin From Net: NetName=AGND Pin=U202-16
+Removed Pin From Net: NetName=AGND Pin=U202-19
+Removed Pin From Net: NetName=AFE_PDNZ Pin=U202-20
+Removed Pin From Net: NetName=AFE_DIAG_END Pin=U202-21
+Removed Pin From Net: NetName=AFE_LED_ALM Pin=U202-22
+Removed Pin From Net: NetName=AFE_PD_ALM Pin=U202-23
+Removed Pin From Net: NetName=SPI_CLK Pin=U202-24
+Removed Pin From Net: NetName=SPI_SOMI Pin=U202-25
+Removed Pin From Net: NetName=SPI_SIMO Pin=U202-26
+Removed Pin From Net: NetName=SPI_STE Pin=U202-27
+Removed Pin From Net: NetName=AFE_ADC_RDY Pin=U202-28
+Removed Pin From Net: NetName=AFE_RESETZ Pin=U202-29
+Removed Pin From Net: NetName=AFE_CLKOUT Pin=U202-30
+Removed Pin From Net: NetName=AGND Pin=U202-32
+Removed Pin From Net: NetName=AGND Pin=U202-36
+Removed Pin From Net: NetName=AGND Pin=U202-40
+Removed Pin From Net: NetName=AGND Pin=U202-41
+Removed Pin From Net: NetName=AGND Pin=U501-1
+Removed Pin From Net: NetName=BATERIA_OUT Pin=U501-2
+Removed Pin From Net: NetName=AGND Pin=U501-11
+Removed Pin From Net: NetName=3V3 Pin=U502-1
+Removed Pin From Net: NetName=AGND Pin=U502-4
+Removed Pin From Net: NetName=AGND Pin=U502-9
+Removed Pin From Net: NetName=AGND Pin=U503-4
+Removed Pin From Net: NetName=AGND Pin=U503-9
+Removed Pin From Net: NetName=AGND Pin=U504-3
+Removed Pin From Net: NetName=AGND Pin=U504-9
+Removed Pin From Net: NetName=AGND Pin=USB?-A1
+Removed Pin From Net: NetName=VIN Pin=USB?-A4
+Removed Pin From Net: NetName=VIN Pin=USB?-A9
+Removed Pin From Net: NetName=AGND Pin=USB?-A12
+Removed Pin From Net: NetName=AGND Pin=USB?-B1
+Removed Pin From Net: NetName=VIN Pin=USB?-B4
+Removed Pin From Net: NetName=VIN Pin=USB?-B9
+Removed Pin From Net: NetName=AGND Pin=USB?-B12
+Removed Pin From Net: NetName=AGND Pin=Y101-2
+Removed Pin From Net: NetName=AGND Pin=Y201-2
+Change Component Comment : Designator=D102 Old Comment=2290341 New Comment=#NAME?
+Change Component Comment : Designator=Y101 Old Comment=CSTCR4M00G15L99-R0 New Comment=#NAME?
+Change Component Comment : Designator=D101 Old Comment=KPHHS-1005QBC-D-V New Comment=#NAME?
+Change Component Comment : Designator=U101 Old Comment=MSP430F5528IRGCR New Comment=#NAME?
+Change Component Comment : Designator=U20 Old Comment=STMicroelectronics New Comment=#NAME?
+Added Pin To Net: NetName=SDA Pin=U20-2
+Change Net Name : Old Net Name=AGND New Net Name=GND
+Added Pin To Net: NetName=DVCC_MSP430 Pin=C22-1
+Added Pin To Net: NetName=DVCC_MSP430 Pin=R20-2
+Added Pin To Net: NetName=DVCC_MSP430 Pin=R21-2
+Added Net: Name=DVCC_MSP430
+Added Pin To Net: NetName=NetU21_8 Pin=U21-8
+Added Net: Name=NetU21_8
+Change Class Name : Old Net Name=MCU New Net Name=Designator
+Change Class Name : Old Net Name=SUPPLY New Net Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

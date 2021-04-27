@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=ALCC Pin=R20-1
+Added Pin To Net: NetName=ALCC Pin=U20-1
+Added Pin To Net: NetName=SDA Pin=U20-2
+Added Pin To Net: NetName=SCL Pin=U20-3
+Added Pin To Net: NetName=/SD WIFI Pin=U21-8

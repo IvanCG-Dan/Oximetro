@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=USB_CONNECTED Pin=P?-4
+Added Net: Name=USB_CONNECTED
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
